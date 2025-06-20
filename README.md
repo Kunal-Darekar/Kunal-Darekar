@@ -127,7 +127,6 @@ goals.display_goals()
   <img src="https://github-readme-streak-stats.vercel.app/?user=Kunal-Darekar&theme=radical" alt="GitHub Streak" />
 </div>
 
-
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
