@@ -125,8 +125,11 @@ goals.display_goals()
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kunal-Darekar&theme=radical" alt="GitHub Streak" />
+  <picture>
+    <img src="https://streak-stats.demolab.com/?user=Kunal-Darekar&theme=radical" alt="GitHub Streak" />
+  </picture>
 </div>
+
 
 ## 🤝 Let's Connect & Collaborate!
 
