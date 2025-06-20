@@ -124,7 +124,7 @@ goals.display_goals()
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Darekar&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Kunal-Darekar&theme=radical&hide_border=true" alt="Kunal's GitHub streak stats" />
 </div>
 
 ## 🤝 Let's Connect & Collaborate!
