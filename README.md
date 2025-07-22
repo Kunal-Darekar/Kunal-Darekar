@@ -8,7 +8,7 @@
 
 I'm a passionate **Information Technology Engineering student** at Genba Sopanrao Moze College of Engineering, Pune, with a strong foundation in **full-stack development** and **artificial intelligence**. I specialize in building scalable web applications and AI-powered solutions.
 
-- 🎓 **IT Engineering Student** (CGPA: 7.70) | **Computer Science Diploma** (86.71%)
+- 🎓 **IT Engineering Student** (CGPA: 8.38) | **Computer Science Diploma** (86.71%)
 - 🔭 Currently working on **AI-Enhanced Chat Applications** with **NLTK & Machine Learning**
 - 🌱 Learning **Advanced System Design**, **Machine Learning**, and **Cloud Technologies**
 - 👯 Looking to collaborate on **Open Source Projects**, **AI/ML initiatives**, and **MERN Stack applications**
