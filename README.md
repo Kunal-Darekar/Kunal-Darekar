@@ -125,7 +125,7 @@ goals.display_goals()
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Kunal-Darekar&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Kunal-Darekar&theme=radical)
 
 
 </div>
