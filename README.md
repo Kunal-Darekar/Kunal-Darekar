@@ -124,7 +124,10 @@ goals.display_goals()
 ## 📈 Coding Activity
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=Kunal-Darekar&theme=radical" alt="GitHub Streak" />
+    <img
+  src="https://streak-stats.demolab.com?user=Kunal-Darekar&theme=radical"
+  alt="GitHub Streak Stats"
+/>
 </div>
 
 
